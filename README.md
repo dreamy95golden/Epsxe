@@ -207,4 +207,4 @@ ePSXe is offered as a complete free version with all features unlocked and all u
 Get ready to dive into the world of classic gaming! Download ePSXe today and start enjoying your favorite PlayStation titles on your Windows PC.
 
 ---
-**Last updated:** 2026-09-20 20:27:43 UTC
+**Last updated:** 2026-09-20 22:58:07 UTC
